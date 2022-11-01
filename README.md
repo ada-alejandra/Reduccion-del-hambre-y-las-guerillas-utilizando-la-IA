@@ -1,7 +1,7 @@
 # Reduccion-del-hambre-y-las-guerillas-utilizando-la-IA
 Proyecto final del curso Building AI
 
-
+1geopolita-inflacion-guerra-mundounipolar-hambruna1geopolita-inflacion-guerra-mundounipolar-hambruna
 Resumen
 
 Crear un sistema donde la sociedad pueda utilizarlo dandonos recomendaciones de métodos de plantación y distribución de alimentos más nutritivos que puedan mejorar la calidad de la vida del ser humano y tener la comida de una forma fácil y segura impidiendo que las guerras nos afecten hasta llegar a la hambruña.
